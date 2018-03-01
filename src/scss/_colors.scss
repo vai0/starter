@@ -1,0 +1,52 @@
+// MemSQL primary
+$color-bondi-blue:    #0088BB;
+
+// MemSQL secondary color palette
+$color-chathams-blue: #175581;
+$color-picton-blue:   #47B9E8;
+$color-link-water:    #E6F3F8;
+$color-nile-blue:     #17354A;
+
+// MemSQL tertiary palette
+$color-mantis:        #5BC759;
+$color-snowy-mint:    #D9FFD9;
+$color-supernova:     #FFCE0C;
+$color-baja-white:    #fff6d1;
+$color-blaze-orange:  #FF6900;
+$color-tuft-bush:     #FFE1CD;
+$color-valencia:      #D5322F;
+$color-cosmos:        #FFD7D6;
+
+// MemSQL grayscale palette
+$color-black:         #000000;
+$color-white:         #FFFFFF;
+$color-concrete:      #F2F2F2;
+$color-gallery:       #ECECEC;
+$color-gray:          #828282;
+$color-silver:        #BDBDBD;
+$color-mine-shaft:    #333333;
+$color-emperor:       #4F4F4F;
+$color-shadow:        rgba(0, 0, 0, 0.12);
+
+// MemSQL alternate colors
+$color-cornflower:    #94CFE5;
+$color-buttered-rum:  #A7880C;
+$color-disco:         #871550;
+$color-daintree:      #03212C;
+
+// MemSQL text colors
+$color-text-1:        $color-mine-shaft;
+$color-text-2:        $color-emperor;
+$color-text-3:        $color-gray;
+
+// MemSQL contextual colors
+$success-background:  $color-snowy-mint;
+$success-text:        $color-mantis;
+$progress-background: $color-link-water;
+$progress-text:       $color-picton-blue;
+$alert-background:    $color-baja-white;
+$alert-text:          $color-buttered-rum;
+$error-background:    $color-cosmos;
+$error-text:          $color-valencia;
+$info-background:     $color-emperor;
+$info-text:           $color-white;
